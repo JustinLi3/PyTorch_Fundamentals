@@ -1,0 +1,27 @@
+Machine learning (non-DL) 
+ -structured data (tables, standardized rows and columns)  
+
+Deep learning 
+ -unstructured data (data that is all over the place, blogs, images, sounds) 
+ -turn unstructured to structured with neural networks (Neural networks, fully connected neural network, 
+  convulutional neural network) 
+
+Neural networks 
+ -web of tiny "brains" that connect to each other that learn to make decisions through examples  
+ -turn data (images, text, audio) into numbers (numerical encoding/matrix), parse into neural network 
+  (choose appropriate neural network/representation output), into human understood output 
+
+Anatomy 
+ -Data -> Input layer (2) -> Hidden layer (as many as you want) -> Output layer (1 outputs learned 
+  representation or prediction probabilities)  
+ -Each layer is set of linear and/or non-linear functions that parse matrix   
+
+Different learning models 
+ 1.Supervised: Data Labels, a lot of data and inputs for examples of what it should look like and to discern
+ 2.Unsupervised: Only Data, learn and inherent fundamental patterns between different examples, take what they 
+   get and manipulate it in regards to what you expect
+ 3.Transfer: Taking patterns that one model learned from a dataset, and transferring it to another model 
+
+What is Deep learning used for? 
+ -Used to automatically learn patterns from data to make decisions and predictions 
+ -ex: Youtube recommendations, google translate, speech recognition, NLP, spam detection

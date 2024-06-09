@@ -1,0 +1,28 @@
+What is Machine learnning? 
+ -turning data into numbers and finding patterns within those numbers (Within AI) 
+ -computer makes predictions/decisions from data without code for each task
+
+What is Deep learning? 
+ -subset of machine learning using neural networks to analyze various levels of data (like speech & image recognition) 
+
+Traditional Programming 
+ -Takes in inputs and code in order to produce output
+
+Machine Learning Algorithm 
+ -Takes in inputs and desired outputs in order to draw connections between each other to produce code
+
+Why use Machine Learning? 
+ -Writing all the code may be too cumbersome, too many rules when you would rather have the computer write 
+  us an algorithm and they find the patterns for us 
+
+Can we use it for everything? 
+ -"If you can build a simple rule-based system that doesn't require machine learning, do that." 
+ -Isnt a solve for everything 
+ -Not when patterns learned not useful for human 
+ -Not when errors are unacceptable  
+
+So when should we use it? 
+ -Problems with too many rules 
+ -Continually changing environments, adjust to new scenarios  
+ -Large dataset, discovering insights  
+
