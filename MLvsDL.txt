@@ -1,14 +1,14 @@
 Machine learning (non-DL) 
- -structured data (tables, standardized rows and columns)  
+ -Structured data (tables, standardized rows and columns)  
 
 Deep learning 
- -unstructured data (data that is all over the place, blogs, images, sounds) 
+ -Unstructured data (data that is all over the place, blogs, images, sounds) 
  -turn unstructured to structured with neural networks (Neural networks, fully connected neural network, 
   convulutional neural network) 
 
 Neural networks 
- -web of tiny "brains" that connect to each other that learn to make decisions through examples  
- -turn data (images, text, audio) into numbers (numerical encoding/matrix), parse into neural network 
+ -Web of tiny "brains" that connect to each other that learn to make decisions through examples  
+ -Turn data (images, text, audio) into numbers (numerical encoding/matrix), parse into neural network 
   (choose appropriate neural network/representation output), into human understood output 
 
 Anatomy 
@@ -24,4 +24,21 @@ Different learning models
 
 What is Deep learning used for? 
  -Used to automatically learn patterns from data to make decisions and predictions 
- -ex: Youtube recommendations, google translate, speech recognition, NLP, spam detection
+ -ex: Youtube recommendations, google translate, speech recognition, NLP, spam detection 
+
+Tensors 
+ -Any representation of numbers  
+
+PyTorch 
+ -Programming library that provides tools for building and training machine learning models, e
+  nabling computers to learn patterns and make decisions based on data 
+
+PyTorch workflow  
+ 1.Get data ready (turn into tensors)
+ 2.Build or pick a pretrained model (to suit your problem)
+   2.1 Pick a loss function & optimizer
+   2.2 Build a training loop
+ 3.Fit the model to the data and make a prediction
+ 4.Evaluate the model
+ 5.Improve through experimentation
+ 6.Save and reload your trained model
