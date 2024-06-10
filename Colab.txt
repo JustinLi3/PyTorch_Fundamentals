@@ -1,0 +1,8 @@
+What is Colab? 
+ -Lets you do coding and data related work on the internet 
+ -Virtual notebook where you can write and run python without installing anything 
+ -Makes ML faster and more efficient 
+
+Cells 
+ -Code
+ -Text: Text,images,links
